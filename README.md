@@ -38,7 +38,7 @@ Using this repository
 3. Click on "Course materials", then on the "Notable" icon. <img src="![Noteable](https://github.com/KLohse/PGA_course_2024/assets/17250135/349acfb6-48df-4f4a-aad4-13747caf73ff)
 " width="75%" height="75%">
 4. Select the "BioChemistry Notebook" from the dropdown menu and click "Start". <img src="https://github.com/KLohse/PGA_course_2024/blob/main/Noteable.png" width="75%" height="75%">
-5. Click on `+GitRepo` to bring up the menu to clone this repository. <img src="https://user-images.githubusercontent.com/167909/149777473-e7578276-4f99-44d4-8a68-9ddf06decd43.png" width="75%" height="75%">
+5. Click on `+GitRepo` to bring up the menu to clone this repository. <img src="" width="75%" height="75%">
 6. For this you must enter the following information: <img src="(https://github.com/KLohse/PGA_course_2024/blob/main/noteable2.png)" width="75%" height="75%">  
   - **Git Repository URL**: `https://github.com/LohseLab/PGA_course_2024`
   - **Branch**: `main` 
