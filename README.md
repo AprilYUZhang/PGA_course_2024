@@ -39,7 +39,7 @@ Using this repository
 " width="75%" height="75%">
 4. Select the "BioChemistry Notebook" from the dropdown menu and click "Start". <img src="https://github.com/KLohse/PGA_course_2024/blob/main/Noteable.png" width="75%" height="75%">
 5. Click on `+GitRepo` to bring up the menu to clone this repository. <img src="" width="75%" height="75%">
-6. For this you must enter the following information: <img src="(https://github.com/KLohse/PGA_course_2024/blob/main/noteable2.png)" width="75%" height="75%">  
+6. For this you must enter the following information: <img src="https://github.com/KLohse/PGA_course_2024/blob/main/noteable2.png" width="75%" height="75%">  
   - **Git Repository URL**: `https://github.com/LohseLab/PGA_course_2024`
   - **Branch**: `main` 
 7. You can now use the Jupyter file browser to navigate to the notebooks you want to execute.
