@@ -2,20 +2,11 @@
 
 GitHub repository of the [Population Genomic Analysis 2024 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/23-24/dpt/cxpgbi11126.htm) at the University of Edinburgh 
 
-Table of contents
------------------
-
-- [Contacts](https://github.com/LohseLab/PGA_course_2022_DEV/blob/main/README.md#contacts)
-- [Course description](https://github.com/LohseLab/PGA_course_2022_DEV/blob/main/README.md#course-description)
-- [Course admin](https://github.com/LohseLab/PGA_course_2022_DEV/blob/main/README.md#course-admin)
-- [Using this repository](https://github.com/LohseLab/PGA_course_2022_DEV/blob/main/README.md#using-this-repository)
-- [Syllabus](https://github.com/LohseLab/PGA_course_2022_DEV/blob/main/README.md#syllabus)
-
 Contacts
 --------
 
-- Course organiser: [Dr. Konrad Lohse](mailto:konrad.lohse@ed.ac.uk?subject=[PGA2022])
-- Course secretary: [Miss Zofia Bekas](mailto:zofia.bekas@ed.ac.uk?subject=[PGA2022])
+- Course organiser: [Dr. Konrad Lohse](mailto:konrad.lohse@ed.ac.uk?subject=[PGA2024])
+- Course secretary: [Miss Zofia Bekas](mailto:zofia.bekas@ed.ac.uk?subject=[PGA2024])
 
 Course description
 ------------------
@@ -42,10 +33,10 @@ Course admin
 
 Using this repository
 ---------------------
-1. Log into [LEARN](https://www.learn.ed.ac.uk/).
-2. Go to the [course](https://www.learn.ed.ac.uk/webapps/blackboard/execute/modulepage/view?course_id=_85577_1&cmp_tab_id=_420952_1).  
+1. Log into [LEARN](https://www.learn.ed.ac.uk/ultra/course).
+2. Go to the [course](https://www.learn.ed.ac.uk/ultra/courses/_110711_1/outline).  
 3. Click on "Course materials", then on the "Notable" icon. <img src="https://user-images.githubusercontent.com/167909/149776450-46ad0b2e-6e64-42b2-87dd-f82875226222.png" width="75%" height="75%">
-4. Select the "Chemistry Notebook" from the dropdown menu and click "Start". <img src="https://user-images.githubusercontent.com/167909/149776788-33ba14a5-f22d-4306-82c6-3dbc1e95ff75.png" width="75%" height="75%">
+4. Select the "BioChemistry Notebook" from the dropdown menu and click "Start". <img src="https://user-images.githubusercontent.com/167909/149776788-33ba14a5-f22d-4306-82c6-3dbc1e95ff75.png" width="75%" height="75%">
 5. Click on `+GitRepo` to bring up the menu to clone this repository. <img src="https://user-images.githubusercontent.com/167909/149777473-e7578276-4f99-44d4-8a68-9ddf06decd43.png" width="75%" height="75%">
 6. For this you must enter the following information: <img src="https://user-images.githubusercontent.com/167909/149777230-b3c42388-bd5f-4aaa-96fc-033f90601826.png" width="75%" height="75%">  
   - **Git Repository URL**: `https://github.com/LohseLab/PGA_course_2024`
