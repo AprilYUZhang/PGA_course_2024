@@ -1,6 +1,6 @@
-# Population Genomic Analysis 2023 (PGBI11126)
+# Population Genomic Analysis 2024 (PGBI11126)
 
-GitHub repository of the [Population Genomic Analysis 2023 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/22-23/dpt/cxpgbi11126.htm) at the University of Edinburgh 
+GitHub repository of the [Population Genomic Analysis 2024 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/23-24/dpt/cxpgbi11126.htm) at the University of Edinburgh 
 
 Table of contents
 -----------------
@@ -35,7 +35,7 @@ Course admin
 ------------
 
 - PGA consists of a 10 computer practical sesssion (the last one being a class excercise that accounts for 75% of the mark) which analyse population genomic data.
-- **The first session will be on Tuesday 17/01/2023 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
+- **The first session will be on Tuesday 16/01/2023 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
 - While PGA focuses on analysing population genomic data, this will also involve using the Python programming language, which will be introduced gradually throughout the course.
   - if you have not worked with Jupyter notebooks before, please watch [this short intro video](https://www.youtube.com/watch?v=A5YyoCKxEOU) ahead of the course
   - if you are a complete Python-novice, please read sections 1. - 4.3 of the [official Python documentation](https://docs.python.org/3.6/tutorial/)
@@ -48,7 +48,7 @@ Using this repository
 4. Select the "Chemistry Notebook" from the dropdown menu and click "Start". <img src="https://user-images.githubusercontent.com/167909/149776788-33ba14a5-f22d-4306-82c6-3dbc1e95ff75.png" width="75%" height="75%">
 5. Click on `+GitRepo` to bring up the menu to clone this repository. <img src="https://user-images.githubusercontent.com/167909/149777473-e7578276-4f99-44d4-8a68-9ddf06decd43.png" width="75%" height="75%">
 6. For this you must enter the following information: <img src="https://user-images.githubusercontent.com/167909/149777230-b3c42388-bd5f-4aaa-96fc-033f90601826.png" width="75%" height="75%">  
-  - **Git Repository URL**: `https://github.com/LohseLab/PGA_course_2022`
+  - **Git Repository URL**: `https://github.com/LohseLab/PGA_course_2024`
   - **Branch**: `main` 
 7. You can now use the Jupyter file browser to navigate to the notebooks you want to execute.
 
